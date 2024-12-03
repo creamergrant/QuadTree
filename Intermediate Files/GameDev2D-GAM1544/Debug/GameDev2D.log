@@ -1,0 +1,7 @@
+﻿  CollisionHell.cpp
+F:\Pain\GAM1544-GameDev2D\Source\Spline.h(33,22): warning C4018: '<': signed/unsigned mismatch
+F:\Pain\GAM1544-GameDev2D\Source\CollisionHell.cpp(42,21): warning C4018: '<': signed/unsigned mismatch
+F:\Pain\GAM1544-GameDev2D\Source\CollisionHell.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+F:\Pain\GAM1544-GameDev2D\Source\CollisionHell.cpp(129,45): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+F:\Pain\GAM1544-GameDev2D\Source\CollisionHell.cpp(142,18): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  GameDev2D.vcxproj -> F:\Pain\GAM1544-GameDev2D\Builds\GameDev2D-GAM1544\Debug\GameDev2D-GAM1544.exe
